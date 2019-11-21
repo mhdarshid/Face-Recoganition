@@ -1,2 +1,3 @@
 # Face-Recoganition
-its simple model of real time face deyection and recoganition
+its simple model of real time face detection and recoganition using OpenCV Numpy Pillow modules 
+ 
